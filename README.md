@@ -9,7 +9,7 @@ si se pasa el cursor por encima este mostrará una pequeña minicarta con una br
 
 ### 🛠️ Tecnologías y IDE utilizados (Technologies and IDE used)
 
-<img src="./icons/HTML.svg" width="48"> <img src="./icons/CSS.svg" width="48">
+<img src="./icons/HTML.svg" width="48"> <img src="./icons/CSS.svg" width="48"> <img src="./icons/VSCode-Dark.svg" width="48">
 
 ## Antes:
 
