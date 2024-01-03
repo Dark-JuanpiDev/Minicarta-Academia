@@ -1,7 +1,15 @@
-# Minicarta Academia
+<p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Minicarta%20para%20Academia;de%20Marinera&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
+### ⚡ Descripción (Description)
 
 Este miniproyecto muestra una animación con html y css para un logo con descripción, cuando esta normal se mostrará el logo pero 
 si se pasa el cursor por encima este mostrará una pequeña minicarta con una breve descripción.
+
+### 🛠️ Tecnologías y IDE utilizados (Technologies and IDE used)
+
+<img src="./icons/HTML.svg" width="48"> <img src="./icons/CSS.svg" width="48">
 
 ## Antes:
 
