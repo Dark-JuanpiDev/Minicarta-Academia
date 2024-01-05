@@ -170,7 +170,7 @@ body {
     margin-top: 20px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     .card {
         width: auto;
         max-width: 350px;
